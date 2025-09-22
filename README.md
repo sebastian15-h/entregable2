@@ -1,5 +1,5 @@
 1. Instalar dependencias
-Primero crea un archivo requirements.txt con este contenido:
+
 
 text
 tkinter
